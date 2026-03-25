@@ -1,3 +1,5 @@
+<img width="1912" height="456" alt="image" src="https://github.com/user-attachments/assets/4ae60083-a9ae-4e7e-b2de-db29277419b6" />
+
 # Terminal System Monitor
 
 A terminal-based dashboard for real-time system resource monitoring. Built with Python, rich, and psutil. Optimized for Linux/Arch environments.
