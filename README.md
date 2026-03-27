@@ -15,7 +15,7 @@ A terminal-based dashboard for real-time system resource monitoring. Built with 
 ## Installation
 
 ### 1. Clone the repository
-git clone (https://github.com/semenpro22gaempro-beep/system-monitor-linux.git)
+git clone https://github.com/semenpro22gaempro-beep/system-monitor-linux.git
 cd your-repository
 
 ### 2. Install dependencies
